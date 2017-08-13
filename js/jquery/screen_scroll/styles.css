@@ -12,10 +12,6 @@ html, body {
   z-index: 1;
 }
 
-.anchor {
-  font-size: 0px; /* Apparently the font size plays a role in how far away from the next section*/
-}
-
 /*.nav a {
     float: left;
     display: block;
